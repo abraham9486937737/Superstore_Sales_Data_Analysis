@@ -70,4 +70,5 @@ This project performs an end-to-end analysis of the **Superstore Sales dataset**
 **Abraham PonnuRaj**  
 📍 Data Analyst | Data Science Enthusiast  
 🔗 [LinkedIn Profile](www.linkedin.com/in/abraham-ponnuraj-b717a111)  
-📧 abrahmcbegmail.com
+📧 abrahamcbe@gmail.com
+
