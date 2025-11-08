@@ -1,0 +1,20 @@
+📁 Superstore-Data-Analysis/
+│
+├── 📊 Excel_Analysis/
+│   └── Superstore_Excel_Dashboard.xlsx
+│
+├── 🧮 SQL_Analysis/
+│   └── Superstore_SQL_Queries.sql
+│
+├── 📈 PowerBI_Analysis/
+│   ├── Superstore_Sales_Performance.pbix
+│   └── README_PowerBI.md
+│
+├── 📊 Tableau_Analysis/
+│   └── Superstore_Sales_Performance.twb
+│
+├── 🐍 Python_Analysis/
+│   ├── superstore_analysis.ipynb
+│   └── visualization_output.png
+│
+└── README.md

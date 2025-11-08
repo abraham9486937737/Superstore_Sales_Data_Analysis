@@ -1,0 +1,4 @@
+🏁 Summary
+
+The Power BI dashboard offers a unified and dynamic view of sales, profit, and customer behavior.
+It effectively transforms raw data into meaningful insights that can drive strategic business decisions and demonstrates data modeling, DAX proficiency, and storytelling through visualization.
