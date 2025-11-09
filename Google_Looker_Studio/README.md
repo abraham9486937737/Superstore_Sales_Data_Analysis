@@ -1,4 +1,4 @@
----
+<hr>
 
 ### 🌐 Google Looker Studio Analysis
 
@@ -24,5 +24,4 @@ The dashboard highlights:
 **Exported Report:**  
 📄 [Download PDF](Google_Looker_Studio/Superstore_Sales_Data_Analysis.pdf)
 
----
-
+<hr>
